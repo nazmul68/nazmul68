@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nazmul Hoque</h1>
-<h3 align="center">A passionate Web Developer from Dhaka , Bangladesh.</h3>
+<h3 align="center">A passionate Web Developer (MERN) from Dhaka , Bangladesh.</h3>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Redux**
 
-- 👨‍💻 All of my projects are available at [under construction](under construction)
+- 👨‍💻 All of my projects are available at [https://nazmuls-portfolio.netlify.app/]
 
-- 💬 Ask me about **React , React Router-Dom, Node.js, Express.js**
+- 💬 Ask me about **Javascript(ES6) , React , Node.js, Express.js, MongoDB , Firebase**
 
 - 📫 How to reach me **sujon686500@gmail.com**
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nazmul-sujon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nazmul-sujon" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nazmul-sujon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nazmul-sujon" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19965885" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19965885" height="30" width="40" /></a>
 <a href="https://fb.com/nazmulsujon404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nazmulsuj0n" height="30" width="40" /></a>
 <a href="https://instagram.com/nazmul__sujon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nazmul__sujon" height="30" width="40" /></a>
