@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nazmul Hoque</h1>
 <h3 align="center">A passionate Web Developer (MERN) from Dhaka , Bangladesh.</h3>
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **Nextjs**
 
 - 👨‍💻 All of my best projects are available at [https://nazmuls-portfolio.netlify.app/]
 
