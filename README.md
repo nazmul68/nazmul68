@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nazmul Hoque</h1>
 <h3 align="center">A passionate Web Developer (MERN) from Dhaka , Bangladesh.</h3>
 
-- 🌱 I’m currently learning **Nextjs**
+- 🌱 I’m currently learning **Typescript**
 
 - 👨‍💻 All of my best projects are available at [https://nazmuls-portfolio.netlify.app/]
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sujon686500@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jLxIXh-W1i__w63sxCTtl40ioYCGJI1d/view?usp=sharing]
+- 📄 Know about my experiences [https://drive.google.com/file/d/1VpTShrBUQsZBcMNfXvRttd1tlsI9cnZH/view?usp=sharing]
 
 - ⚡ Fun fact **I love to playing Cricket & badminton.**
 
