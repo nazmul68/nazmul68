@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nazmul Hoque</h1>
-<h3 align="center">A passionate Web Developer (MERN) from Dhaka , Bangladesh.</h3>
+<h3 align="center">A passionate Web Developer from Dhaka , Bangladesh.</h3>
 
 - 🌱 I’m currently learning **Typescript**
 
-- 👨‍💻 All of my best projects are available at [https://nazmuls-portfolio.netlify.app/]
+- 👨‍💻 All of my best projects are available at [https://nazmuls-portfolio.netlify.app]
 
-- 💬 Ask me about **Javascript(ES6) , React.js , Next.js, Node.js , Express.js , MongoDB , Firebase**
+- 💬 Ask me about **Javascript(ES6) , Typescript , React.js , Next.js **
 
 - 📫 How to reach me **sujon686500@gmail.com**
 
