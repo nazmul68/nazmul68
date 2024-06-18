@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nazmul Hoque</h1>
 <h3 align="center">A passionate Web Developer from Dhaka , Bangladesh.</h3>
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning and focusing on **Core programming and problem-solving**
 
-- 👨‍💻 All of my best projects are available at [https://nazmuls-portfolio.netlify.app]
+- 👨‍💻 All of my best projects are available at https://nazmuls-portfolio.netlify.app
 
 - 💬 Ask me about **Javascript(ES6) , Typescript , React.js , Next.js **
 
