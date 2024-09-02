@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning and focusing on **Core programming and problem-solving**
 
-- 👨‍💻 All of my best projects are available at https://nazmuls-portfolio.netlify.app
+- 👨‍💻 All of my best projects are available at **https://nazmuls-portfolio.vercel.app**
 
-- 💬 Ask me about **Javascript(ES6) , Typescript , React.js , Next.js **
+- 💬 Ask me about **Javascript(ES6) , Typescript , React.js , Next.js**
 
 - 📫 How to reach me **sujon686500@gmail.com**
 
