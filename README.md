@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nazmul Hoque</h1>
-<h3 align="center">A passionate Web Developer from Dhaka , Bangladesh.</h3>
+<h3 align="center">A passionate Frontend Developer from Dhaka, Bangladesh.</h3>
 
 - 🌱 I’m currently focusing on **core programming and problem-solving alongside my work**
 
